@@ -4,6 +4,7 @@
  * Descrição: arquivo para exibir informação de uma pessoa utilizando tipos de diferentes
  * Data: 25/10/2019
 */
+
 var nome = 'Paulo'
 var idade = 25
 var altura = 1.79

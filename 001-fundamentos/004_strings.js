@@ -4,6 +4,7 @@
  * Descrição: utilizando funções para manipulação de string
  * Data: 25/10/2019
 */
+
 let nome = 'P2ulo'
 
 // Obtendo a letra no indice 4

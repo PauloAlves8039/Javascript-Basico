@@ -4,6 +4,7 @@
  * Descrição: utilizando operadores relacionais para comparação de variáveis
  * Data: 25/10/2019
 */
+
 console.log('01)', '1' == 1)
 console.log('02)', '2' == 1)
 console.log('03)', '3' != 3)

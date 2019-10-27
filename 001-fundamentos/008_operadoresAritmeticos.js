@@ -4,6 +4,7 @@
  * Descrição: utilizando operadores aritméticos para operações básicas
  * Data: 25/10/2019
 */
+
 var a = 5
 var b = 2 
 

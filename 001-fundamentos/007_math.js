@@ -4,6 +4,7 @@
  * Descrição: utilizando algumas funções do objeto Math
  * Data: 25/10/2019
 */
+
 const raio = 5.6
 const area = Math.PI * Math.pow(raio, 2)
 const c1 = Math.ceil(0.60)

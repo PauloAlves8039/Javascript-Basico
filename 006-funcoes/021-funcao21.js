@@ -1,5 +1,5 @@
 /*
- * Arquivo: 020_funcao20.js
+ * Arquivo: 02_funcao21.js
  * Autor: Paulo Alves
  * Descrição: usando função factory para retornar objeto com dados de um produto passados por parâmetro 
  * Data: 05/11/2019
